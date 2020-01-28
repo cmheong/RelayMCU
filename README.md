@@ -1,5 +1,7 @@
 # RelayMCU
 
+For more details: https://cmheong.blogspot.com/2020/01/hacking-hw-655-esp8266-wifi-iot-relay.html
+
 Code for STC15F104W MCU which was installed in cheap ESP-01 relay module marked "LCTECH". 
 
 ![LCTECH ESP-01 based Module with STC15F100W MCU connected to USB-UART](relay-uart.jpg?raw=true "Relay with STC15F104W MCU driven by ESP-01")
